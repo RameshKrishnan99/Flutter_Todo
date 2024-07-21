@@ -1,0 +1,4 @@
+#Sun Jul 21 08:09:24 IST 2024
+base.0=/Users/gmc-rameshkrishnan/AndroidStudioProjects/Flutter_Todo/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
